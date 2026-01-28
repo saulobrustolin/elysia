@@ -1,0 +1,1 @@
+ALTER TABLE "rate_limit" RENAME COLUMN "lastRequest" TO "last_request";
